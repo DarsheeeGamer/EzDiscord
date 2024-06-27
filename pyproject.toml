@@ -7,7 +7,7 @@ version = "2024.0.0.1"
 name = "ezdiscord"
 authors = [
     {name = "pymoji-dev", email = "pycharmdudeig@gmail.com"},
-    {name="DarsheeeGamer"},
+    {name="DarsheeeGamer", email = "cleaverdeath@gmail.com"},
 ]
 description = "An easier version of discord.py"
 readme = "README.rst"
