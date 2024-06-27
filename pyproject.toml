@@ -15,7 +15,7 @@ keywords = ["discord","bot","easy"]
 requires-python = ">= 3.8"
 classifiers = ["Development Status :: 4 - Beta",
                "Intended Audience :: Developers",
-               "License :: Creative Commons",
+               "License :: Creative Commons Zero",
                "Topic :: Bot Developers :: discord",]
 [project.urls]
 Github = "https://github.com/DarsheeeGamer/EzDiscord"
